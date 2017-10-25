@@ -1,0 +1,3 @@
+Initial terrain and object implementation -- Wed by 9pm(estimate: 30 min)
+Player and camera movement -- Wed by 9pm(estimate: 10 min)
+Object interaction -- Wed by 11pm(estimate: 1-2 hours)
