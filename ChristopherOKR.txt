@@ -1,3 +1,6 @@
 Initial terrain and object implementation -- Wed by 9pm(estimate: 30 min)
 Player and camera movement -- Wed by 9pm(estimate: 10 min)
 Object interaction -- Wed by 11pm(estimate: 1-2 hours)
+Get or make assets for AI object -- Wed by 10pm(10 minutes if found, 1-2 hours if not)
+Create AI script for AI object -- Thurs by 12pm(2-3 hours)
+finish minor level details -- Thrus by 1:40pm(1-2 hours)
