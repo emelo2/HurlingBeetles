@@ -24,6 +24,9 @@ A wild boar model including meshes.
 Helsssoo "GAZ Street Props - V1.1". 2016, Aug 8 https://www.assetstore.unity3d.com/en/#!/content/57285
 Contains meshes and textures for streetlamps, hydrant, and trashcan
 
+In Love With A Ghost "Music" 2017, sep 9 https://inlovewithaghost.bandcamp.com/album/interdimensional-portal-leading-to-a-cute-place-ft-snails-house-single
+music for credits
+
 Justwo, "Snowed Fence - V1.0". 2016, Jan 13 https://www.assetstore.unity3d.com/en/#!/content/6722
 Fence asset with mesh and textures.
 
